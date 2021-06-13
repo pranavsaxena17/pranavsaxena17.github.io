@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I’m a sophomore pursuing a major in Computer Science and Engineering at IIT Roorkee. I’m very passionate about cybersecurity, interested primarily in web application security and binary exploitation. I’ve been actively participating in cybersecurity competitions, known as CTFs (Capture The Flag) since my freshman year as part of team InfosecIITR. I spend most of my free time reading blogs, CTF writeups and watching educational security content on Youtube.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pranav.saxena11@gmail.com](mailto:pranav.saxena11@gmail.com)
